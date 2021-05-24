@@ -1,0 +1,146 @@
+         História da inteligência Artificial
+
+Aluno: Deivison rodrigues jordão
+n° da matrícula:20200023728
+professor: Gilberto farias de sousa filho
+
+ Esse texto é de autoria de Deivison rodigues jordão,para fins de pesquisa e estudo,e está sendo entregue em forma 
+de trabalho avaliativo,sendo o mesmo de acesso livre pra todos os que dele quiserem desfrutar.
+
+Parte 1- introdução e primeiros conceitos:
+
+ A Inteligência artificial é um assunto que sempre intrigou o ser humano,seja pelo seu potencial 
+de nos aulixiliar,desde tarefas simples a praticamente impossiveis,ou pelo medo e pavor dos 
+mais temerosos. Sendo assim,um tema recorrente do imaginário humano e,por isso,amplamente ilustrado
+no cinema. Tomemos por exemplo blade runner, que foi recentemente retratado,mas que tem seu primeiro filme é 
+datado do ano de 1982,ou filmes mais antigos como Metropolis de 1927. Mas a final de contas,o que é inteligência
+artificial ?
+
+ *A Inteligência artificial- É um avanço tecnológico que permite que sistemas simulem uma inteligência similar à 
+humana,indo além da programação de ordens específicas para tomar decisões de forma autônoma, baseadas em padrões
+de enormes bancos de dados. Agora,falando de forma acessível,podemos definir inteligência artificial,no grosso modo,como 
+a capacidade das máquinas de pensarem como seres humanos, ou seja,aprender, perceber e decidir quais caminhos seguir, de 
+forma racional, diante de determinadas situações.
+
+ Nesse texto você encontrará alguns outros termos que podem lhe gerar duvídas em relação ao seu conceito,então segue uma breve e
+singela explicação.
+
+ *Redes neurais- São sistemas de computação com nós interconectados que funcionam como os neurônios do cérebro humano. Usando 
+algoritmos, elas podem reconhecer padrões escondidos e correlações em dados brutos, agrupá-los e classificá-los, e,com o tempo,aprender 
+e melhorar continuamente.
+
+ *Teste de Turing- Testa a capacidade de uma máquina exibir comportamento inteligente equivalente a um ser humano, ou indistinguível deste.
+
+ *Machine Learning- Sistema que da os computadores a habilidade de aprenderem um função, sem serem programados diretamente para isso.
+
+ *Deep Leaarning- Deep learning é um tipo de machine learning que treina computadores para realizar tarefas como seres humanos, o que inclui 
+reconhecimento de fala, identificação de imagem e previsões. Em vez de organizar os dados para serem executados através de equações predefinidas, o deep 
+learning configura parâmetros básicos sobre os dados e treina o computador para aprender sozinho através do reconhecimento padrões em várias camadas de processamento. 
+
+Parte 2- linha do tempo da inteligência Artificial:
+
+1943- Warren Mcculloch e Walter Pitts,publicam um artigo que fala pela primeira vez sobre rede neurais.
+      Claude Shannon,apresenta um artigo sobre como programar uma máquina para jogar xadrez.
+      Alan Turing,cria o teste de turing.
+
+1951- Marvin Minsky cria a Snarc,uma calculadora que que resolvia operações matemáticas simulando sinapses.
+
+1952- Arthur Samuel cria um jogo de damas no IBM-701,que melhorava sua capacidade por conta própria.
+
+1956- Conferência de Dartmouth,que foi um encontro de pessoas muito importantes na época nessa nova área que era a IA. Essa confêrencia 
+foi é conciderado o Marco zero da IA,pois trouxe os olhos do mundo para ela. E após isso tanto o setor privado,quanto instutuições 
+governamentais começaram a investir em projetos de IA.
+
+1957- Perceptron,rede neural de um camada que classifica resultados.
+
+
+1958- Lisp,linguaguem de programação que virou,na época,padrão quando se tratava de IA. E que deu origem a incontáveis linguaguens de pragramação.
+
+1959- O termo Machine Learning foi usado pela primeira vez.
+
+1964- Primeiro chatbot do mundo,chamado ELISA.
+
+1969- Shakey,primeiro robô que unia mobilidade,fala e uma pequena autonomia de ação.
+
+1975~1980- Inverno da IA,por as grandes expectativas em comparação com a realidade do avanço da época levou a uma esfriagem nas pesquisas e investimentos na área.
+
+1980- Edward Feigenbaum,propôs os sistemas espesialistas,que são software que realizam trabalhos complexos e expecíficas de um campo,isso deu um novo impulso a área 
+que resultou em várias invenções e avanços.
+
+1997- Deep Blue,um supercomputador e um software criados pela IBM especialmente para jogar xadrez,venceu o,na época campeão mundial de xadrez,Garry Kasparov em uma partida.
+
+2002- irobot roomba,um robô aspirador de pó que usava IA e já era muito superior ao robôs de poucos anos antes.
+
+2005- Surge com muita novidades que ligavam IA e robôs a Boston dynamics,que é uma empresa estado-unidense de engenharia robótica que ficou famosa pela construção de robôs 
+avançados, os quais possuem comportamentos notáveis como: mobilidade, agilidade, destreza e velocidade.
+      Ainda por volta de 2005,sugue as primeiras ideias de carros autônomos com IA que vem evoluindo até os dias de hoje.
+
+2008- Google lança seu recurso de reconhecimento de voz para fazer pesquisas.
+
+2011- Aplle lança uma assistente pessoal a siri,que virou tendencia de mercado,pois amozon,microsoft e o google tambem lançaram os seus.
+      Watson,super computador e plataforma de IA,que foi aplicado em diversas áreas como Direito,Medicina,Reconhcimento de imagens e muitas outras.
+
+2012- Google treina um algoritimo para reconhecer gatos em videos do Youtube,utilizando deep learning,nedes neurais entre outras tecnologias.Isso proporcionou um grande 
+avanço no reconhecimento e classificação de imagens,Usado em tecnologias atuais como reconhecimento facial.
+
+2014- Um chatbot chamado Eugene goostman vence o teste de Turing.
+
+2016- Alfa go é um programa de computador que joga o jogo de tabuleiro Go. E sua vitória contra o melhor jogador do mundo é muito mais impressionante que o deep blue,pois 
+Go é um jogo de complexidade muito maior do que xadrez, aprendeu tudo sozinho e melhorou jogando uma infinidades de partidas contra si mesmo.
+
+2017~2020- Atualmente,quase todos os tipos aparelhos eletronicos ultilizam direta ou indiretamente algum tipo de inteligência artificial,seja as televisões inteligentes,jogos 
+eletronicos,equipamentos médicos entre muitos outros.
+
+ Agora vamos fazer um breve exercício de imaginação,como será o futuro com o crescente universo da IA?. Já é de amplo conhecimento que  as máquinas estão tomando postos de 
+trabalho humano,e isso não é de hoje,desde a revolução industrial a mão de obra humana está sendo cada vez mais sendo abandonada,e a tendendencia é que isso continue. Tomemos 
+como exemplos os motoristas que perderam seus empregos com a popularização dos carros autonomos, classes inteiras de médicos por conta dos das precisões analínicas de um software 
+ou a perfeição técnicas de robô com riscos mínimos de erro, entres outras infinidades de postos que serão tomamos ou no mínimo auxiliados pela IA. 
+ Sendo assim os trabalhos que ainda necessitam de um homem o exercendo, são em sua maioria funções intelectuais,pois uma maquina não os podem faze-los,ou será que podem?. É dificil imaginar um 
+computador dando ordens ou auxiliando o ser humano a tomar decisões estratégicas,porém é o que mais iremos ver no futuro e que podemos já observar hoje em dia,muitas empresas e governos tem tomado 
+decisões baseado no que as maquinas analísas e contactam,baseados em dados,sistemas,crusamento dde imformações,modelos estatísticos e muito mais.
+  Enfim,mediante o que foi apresentado nesse texto,podemos perceber os avanços na área da inteligência artificial durante o tempo e como ela modificou e modificará o mundo 
+em que vivemos. 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bibliografia:
+https://tecnoblog.net/263808/o-que-e-inteligencia-artificial/
+https://www.sas.com/pt_br/insights/analytics/neural-networks.html#:~:text=Redes%20neurais%20s%C3%A3o%20sistemas%20de,tempo%20%E2%80%93%20aprender%20e%20melhorar%20continuamente.
+https://www.sas.com/pt_br/insights/analytics/deep-learning.html

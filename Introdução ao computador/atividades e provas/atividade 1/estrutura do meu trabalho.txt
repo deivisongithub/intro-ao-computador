@@ -1,0 +1,9 @@
+1.capa(nome,nome do prof,titulo da pesquisa e etc)
+2.introdução
+3.definições de pre-requisitos
+4.linha do tempo com os grandes marcos
+ .com pequenas biografias das pessoas importantes
+ .peguntas e construções filosoficas
+5.previsões para o futuro da inteligência artificial
+6.finalização com um resumo geral
+7.créditos e fontes. 
